@@ -2,6 +2,12 @@
 Thumbs.db
 ehthumbs.db
 
+**/node_modules
+**/bower_components
+
+#Coffee Files
+*.coffee
+
 # Folder config file
 Desktop.ini
 
@@ -41,3 +47,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/.name
+.idea/Angular-Boilerplate.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
