@@ -1,5 +1,5 @@
 # Angular-Boilerplate
-A test repository to get and do clone and test
+A test repository to clone and start writing your test angular code
 
 Make sure you have npm and bower installed in your shell (Node Cmd, Powershell or GIT Bash)
 
